@@ -1,0 +1,46 @@
+Name: Kumari Aasha
+USC ID: 9488013423
+News site crawled: www.usatoday.com
+
+Fetch Statistics
+================
+# Fetches attempted: 19992
+# Fetches succeeded: 18280
+# Fetches failed   : 44
+# Fetches aborted  : 1668
+
+Outgoing URLs:
+===============
+Total URLs extracted  : 1218965
+#Unique URLs extracted: 343998
+#Unique URLs extracted within website : 66915
+#Unique URLs extracted outside website: 277083
+
+Status Codes:
+==============
+200 OK: 18280
+301 Moved Permanently: 1528
+302: 140
+401 Unauthorized: 0
+403 Forbidden: 0
+404 Not Found: 18
+500 Internal Server Error: 26
+
+File Sizes: 
+=============
+< 1KB:  1
+1KB- <10KB: 7
+10KB- <100KB: 209
+100KB- <1MB: 17921
+>=1MB: 142
+
+Content Types:
+==============
+text/html : 18280
+image/png : 0
+image/jpeg : 0
+image/gif : 0
+application/pdf: 0
+
+
+
